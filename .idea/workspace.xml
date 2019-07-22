@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a1bc644-769b-47c6-b161-334bd48e2eb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5a1bc644-769b-47c6-b161-334bd48e2eb4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -212,8 +210,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/rognrrr/springbootdemo/controller/RabbitMQController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="814">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -660,12 +658,12 @@
       <workItem from="1563628737440" duration="582000" />
       <workItem from="1563629988451" duration="1224000" />
       <workItem from="1563636404276" duration="769000" />
-      <workItem from="1563794048355" duration="1311000" />
+      <workItem from="1563794048355" duration="1319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148526000" />
+    <option name="totallyTimeSpent" value="148534000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,7 +689,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281372" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.23538582" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6356295" visible="true" weight="0.33242506" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6356295" weight="0.33242506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32976827" />
@@ -1073,8 +1071,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rognrrr/springbootdemo/controller/RabbitMQController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="814">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
